@@ -13,7 +13,7 @@
 <hr/>
 
 <p align="center">
-<a href="https://nightly.link/Fedoraware/Fedoraware/workflows/msbuild/main/Fedoraware.zip">
+<a href="https://github.com/Fedoraware/Fedoraware">
 <img src=".github/assets/download.png" align="center" width="100%" height="auto">
 </a>
 </p>
