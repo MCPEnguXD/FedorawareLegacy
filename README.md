@@ -45,5 +45,6 @@
   - [John Page The Fourth](https://github.com/relaxtakenotes)
   - [Baan](https://github.com/tf2cheater2013) (Faggot but deserves A BIT of credit)
   - [lnx00](https://github.com/lnx00)
-  - [stax](https://github.com/stax132349)
+  - [stax](https://github.com/stax132349) // get the fuck out of here LOL! did nuttin for actual legacy fedoraware!!! ROFL
+  - [burgenrad/ascendedsion](https://github.com/AscendedSion)
   - [canedoly](https://github.com/canedoly)
